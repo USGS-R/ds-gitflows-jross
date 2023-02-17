@@ -1,0 +1,74 @@
+[
+  {
+    "name": "ds-gitflows-jross",
+    "organization": "U.S. Geological Survey",
+    "description": "Jesse's gitflows training repo!",
+    "version": "main",
+    "status": "Development",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "https://github.com/USGS-R/ds-gitflows-jross/blob/main/LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "https://github.com/USGS-R/ds-gitflows-jross/",
+    "downloadURL": "https://github.com/USGS-R/ds-gitflows-jross/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USGS-R/ds-gitflows-jross/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USGS-R/ds-gitflows-jross.git",
+    "vcs": "git",
+    "laborHours": 0,
+    "tags": [
+      "R",
+      "USGS"
+    ],
+    "languages": [
+      "R"
+    ],
+    "contact": {
+      "name": "jesse-ross",
+      "email": "FILL ME IN"
+    },
+    "date": {
+      "metadataLastUpdated": "2023-02-16"
+    }
+  },
+  {
+    "name": "",
+    "organization": "U.S. Geological Survey",
+    "description": "",
+    "version": "v0.0.0",
+    "status": "Ideation",
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "Public Domain, CC0-1.0",
+          "URL": "LICENSE.md"
+        }
+      ]
+    },
+    "homepageURL": "",
+    "downloadURL": "",
+    "disclaimerURL": "",
+    "repositoryURL": "",
+    "vcs": "git",
+    "laborHours": 1,
+    "tags": [
+      "R",
+      "USGS"
+    ],
+    "languages": [
+      "R"
+    ],
+    "contact": {
+      "name": "",
+      "email": ""
+    },
+    "date": {
+      "metadataLastUpdated": "2022-10-16"
+    }
+  }
+]
